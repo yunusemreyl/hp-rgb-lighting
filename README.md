@@ -111,6 +111,7 @@ echo 0 | sudo tee /sys/devices/platform/hp-rgb-lighting/win_lock
 License: Distributed under the 
 GPL-2.0-or-later
  License.
+
 Disclaimer: USE AT YOUR OWN RISK. THE AUTHORS ACCEPT NO RESPONSIBILITY FOR ANY DAMAGES.
 ## ✨ Show Your Support ##
 If this driver works for your laptop, please consider giving this repository a ⭐ to help others discover it!
